@@ -6,7 +6,9 @@
   "dependencies": {
     "json-server": "^0.14.2"
   },
-  "engines": {"node": "^10.14.1"},
+  "engines": {
+    "node": "^10.14.1"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "json-server --watch db.json --port 3001"
