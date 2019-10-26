@@ -1,268 +1,316 @@
 {
-  "assets": [
-  {
-    "id": "1",
-    "urlSlug": "assetbuilder-tools-free-demo",
-    "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Featured/AssetBuilderToolsFreeDemo_featured-894x488-c332a75f9f46e558ffe6bbe3588b5d08.png",
-    "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/AssetBuilderToolsFreeDemo_thumb-284x284-1beb30675fedf910f4d3665e6eab0823.png",
-    "imagesUrl": [
-      "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-d4c14bcc336aaf5971dfa57cdf578311.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-ab705f272dae8ea3d67ea87ae280cd8e.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-aa47b5922ae765e2b8ab32ebf49715d2.png"
-    ],
-    "author": "Solid Core Games",
-    "title": "AssetBuilder Tools Free Demo",
-    "description": "UE4 - Align Actors in Editor using tools like in 3ds max",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Plugins"],
-    "gameEngines": ["UE4"],
-    "platforms": ["win", "mac", "linux"],
+  "assets": {
+      "1": {
+        "id": "1",
+        "urlSlug": "assetbuilder-tools-free-demo",
+        "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Featured/AssetBuilderToolsFreeDemo_featured-894x488-c332a75f9f46e558ffe6bbe3588b5d08.png",
+        "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/AssetBuilderToolsFreeDemo_thumb-284x284-1beb30675fedf910f4d3665e6eab0823.png",
+        "author": "Solid Core Games",
+        "title": "AssetBuilder Tools Free Demo",
+        "description": "UE4 - Align Actors in Editor using tools like in 3ds max",
+        "categories": ["Plugins"],
+        "gameEngines": ["UE4"],
+        "platforms": ["win","mac","linux"],
 
-    "source": "UE4 Marketplace",
-    "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/assetbuilder-tools-free-demo",
-    "tags": ["Align", "Snap", "Construction"],
-    "license": "Free"
+        "source": "UE4 Marketplace",
+        "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/assetbuilder-tools-free-demo",
+        "tags": ["Align","Snap","Construction"],
+        "license": "Free"
+      },
+      "2":{
+        "id": "2",
+        "urlSlug": "fabric-materials-56-pack",
+        "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Featured/FabricMaterials56Pack_featured-894x488-8c9cb21c4608e5e6aeb9e92ac352cbb6.png",
+        "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/FabricMaterials56Pack_thumb-284x284-3fd9dd6d7cc5691635505c0024227189.png",
+        "author": "RonanMahonArt",
+        "title": "Fabric Materials - 56 Pack",
+        "description": "56 PBR Fabric Materials - Game and Arch Viz Ready, ideal for both environments and characters. Created at 4K resolution",
+        "categories": ["Materials"],
+        "gameEngines": ["UE4"],
+        "platforms": ["win", "mac", "linux"],
+
+        "source": "UE4 Marketplace",
+        "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/fabric-materials-56-pack",
+        "tags": ["Materials", "PBR", "Textures"],
+        "license": "Free month"
+      },
+      "3":{
+        "id": "3",
+        "urlSlug": "top-down-multistory-dungeons",
+        "featuredImageUrl": "https://cdn1.epicgames.com/ue/item/MultistoryDungeons_Image_894X488-896x488-0bdc200ab21cf23c07a9c5b676a6d996.png",
+        "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultistoryDungeons_thumb-284x284-c43a196228af58a484f5d0e876efad72.png",
+        "author": "Mana Station",
+        "title": "Multistory Dungeons",
+        "description": "Package contains over 350 models to build stylized dungeons for top-down and first-person games.",
+        "categories": ["Environments"],
+        "gameEngines": ["UE4"],
+        "platforms": ["win"],
+
+        "source": "UE4 Marketplace",
+        "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/top-down-multistory-dungeons",
+        "tags": ["Dungeons", "Fantasy", "Low Poly", "Stylized", "Modular", "RPG"],
+        "license": "Free month"
+      },
+      "4":{
+        "id": "4",
+        "urlSlug": "city-subway-train-modular",
+        "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_01-1920x1080-9336094e9e4eded2c797621b34eb2ac8.png",
+        "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/City-Subway Train - Modular_thumb-284x284-ef75b1e5c0c24db73f84f9a1ac607a0a.png",
+        "author": "Dekogon Studios",
+        "title": "City Subway Train - Modular",
+        "description": "This project includes a set of modular meshes and simple blueprint setups to create a subway train. All assets, materials, and vfx created in the Unreal Engine at production ready quality. Each asset was created for realistic AAA quality visuals, style, and budget.",
+        "categories": ["Environments"],
+        "gameEngines": ["UE4"],
+        "platforms": ["win"],
+
+        "source": "UE4 Marketplace",
+        "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/city-subway-train-modular",
+        "tags": ["Realistic", "City", "Horror", "Metro"],
+        "license": "Free"
+      },
+      "5":{
+        "id": "5",
+        "urlSlug": "scott-buckley-song-freedom",
+        "featuredImageUrl": "https://img.youtube.com/vi/8wQd6G1ONTg/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/8wQd6G1ONTg/0.jpg",
+        "youtubeId": "8wQd6G1ONTg",
+        "author": "Scott Buckley",
+        "title": "Freedom",
+        "description": "‘Freedom’ is a bold, uplifting orchestral track, imbued with ideas of exploration, and the pioneering spirit.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/freedom/",
+        "tags": ["Orchestral", "Uplifting", "Exploration"],
+        "license": "CC BY 4.0"
+      },
+      "6":{
+        "id": "6",
+        "urlSlug": "scott-buckley-ashes-fallen-year-remaster",
+        "featuredImageUrl": "https://img.youtube.com/vi/dOkZKq5o99w/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/dOkZKq5o99w/0.jpg",
+        "youtubeId": "dOkZKq5o99w",
+        "author": "Scott Buckley",
+        "title": "Ashes of a Fallen Year - Remaster",
+        "description": "A 2019 remaster of an old track! ‘Ashes’ is a simple, uplifting orchestral track with acoustic drums and strings. The new version has more emphasis on solo strings (violin and cello).",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/ashes-of-a-fallen-year-2019-remaster/",
+        "tags": ["Orchestral", "Uplifting"],
+        "license": "CC BY 4.0"
+      },
+      "7":{
+        "id": "7",
+        "urlSlug": "scott-buckley-skyscraper-samba",
+        "featuredImageUrl": "http://www.scottbuckley.com.au/wp-content/uploads/scott-wall2-flipped-fade3.jpg",
+        "thumbnailImageUrl": "http://www.scottbuckley.com.au/wp-content/uploads/scott-wall2-flipped-fade3.jpg",
+        "author": "Scott Buckley",
+        "title": "Skyscraper Samba",
+        "description": "Elevator music, pure and simple. Three versions are provided: Full Mix, EQ’d (for the elevator speaker experience), and EQ’d + Less Drums (heard above), which has a simpler, more comedic vibe.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/skyscraper-samba/",
+        "tags": ["Elevator", "Samba", "Jazzy", "Relaxing"],
+        "license": "CC BY 4.0"
+      },
+      "8":{
+        "id": "8",
+        "urlSlug": "scott-buckley-ascension",
+        "featuredImageUrl": "https://img.youtube.com/vi/fMx5roxJ7Uk/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/fMx5roxJ7Uk/0.jpg",
+        "youtubeId": "fMx5roxJ7Uk",
+        "author": "Scott Buckley",
+        "title": "Ascension",
+        "description": "Sweeping orchestra, with a touch of sadness, a pinch of melancholy, but a smidgeon of hope for balance – a modern tone poem for the trials of overcoming adversity. A simple, distorted synth helps drive the orchestra forward.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/ascension/",
+        "tags": ["Sad", "Orchestra"],
+        "license": "CC BY 4.0"
+      },
+      "9":{
+        "id": "9",
+        "urlSlug": "scott-buckley-childhood",
+        "featuredImageUrl": "https://img.youtube.com/vi/0JhMDxp3LFA/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/0JhMDxp3LFA/0.jpg",
+        "youtubeId": "0JhMDxp3LFA",
+        "author": "Scott Buckley",
+        "title": "Childhood",
+        "description": "Simple piano and strings, evoking the naivety of childhood.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/childhood/",
+        "tags": ["Piano", "Happy"],
+        "license": "CC BY 4.0"
+      },
+      "10":{
+        "id": "10",
+        "urlSlug": "scott-buckley-computations",
+        "featuredImageUrl": "https://img.youtube.com/vi/kbTClxgehrQ/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/kbTClxgehrQ/0.jpg",
+        "youtubeId": "kbTClxgehrQ",
+        "author": "Scott Buckley",
+        "title": "Computations in a Snowstorm",
+        "description": "Ambient electronics, strings and solo cello, melding into an amorphous tonal explorational soundscape. I’ve also included a ‘No Cello’ mix, which transforms the track into atmospheric underscore.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/computations/",
+        "tags": ["Ambient", "Dark"],
+        "license": "CC BY 4.0"
+      },
+      "11":{
+        "id": "11",
+        "urlSlug": "scott-buckley-intervention",
+        "featuredImageUrl": "https://img.youtube.com/vi/TO5eGVihmN0/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/TO5eGVihmN0/0.jpg",
+        "youtubeId": "TO5eGVihmN0",
+        "author": "Scott Buckley",
+        "title": "Intervention",
+        "description": "Darker ambient piano – subtle thriller vibes, with a simpler piano theme which should hopefully work well as underscore. Also included is a ‘no melody’ alternative mix.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/intervention/",
+        "tags": ["Ambient", "Dark", "Piano"],
+        "license": "CC BY 4.0"
+      },
+      "12":{
+        "id": "12",
+        "urlSlug": "scott-buckley-o-come-all-ye-faithful",
+        "featuredImageUrl": "https://img.youtube.com/vi/Or0AdFdwICA/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/Or0AdFdwICA/0.jpg",
+        "youtubeId": "Or0AdFdwICA",
+        "author": "Scott Buckley",
+        "title": "‘O Come All Ye Faithful",
+        "description": "A cinematic re-orchestration of ‘O Come All Ye Faithful’, with sweeping strings, brass and percussion. Merry Christmas guys! Thanks for an amazing year.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/o-come-all-ye-faithful/",
+        "tags": ["Chistmas", "Xmas", "Orchestral"],
+        "license": "CC BY 4.0"
+      },
+      "13":{
+        "id": "13",
+        "urlSlug": "scott-buckley-snowfall",
+        "featuredImageUrl": "https://img.youtube.com/vi/2N6LRMFT7_A/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/2N6LRMFT7_A/0.jpg",
+        "youtubeId": "2N6LRMFT7_A",
+        "author": "Scott Buckley",
+        "title": "Snowfall",
+        "description": "A heartfelt reflection of the snowy darkness of Midwinter (at least of what it’s like here in Sweden!). Simple layered pianos, percussive and sustained strings, and synths.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/snowfall/",
+        "tags": ["Snow", "Winter", "Piano", "Synth", "Strings"],
+        "license": "CC BY 4.0"
+      },
+      "14":{
+        "id": "14",
+        "urlSlug": "scott-buckley-extrapolation",
+        "featuredImageUrl": "https://img.youtube.com/vi/ZUua4pp2PKw/maxresdefault.jpg",
+        "thumbnailImageUrl": "https://img.youtube.com/vi/ZUua4pp2PKw/0.jpg",
+        "youtubeId": "ZUua4pp2PKw",
+        "author": "Scott Buckley",
+        "title": "Extrapolation",
+        "description": "A simple, moody extrapolation of a piano improvisation, featuring atmospheric strings. Slightly uplifting, slightly melancholy.",
+        "categories": ["Music"],
+
+        "source": "Scott Buckley Music Library",
+        "sourceUrl": "http://www.scottbuckley.com.au/library/extrapolation/",
+        "tags": ["Moody", "Piano", "Strings"],
+        "license": "CC BY 4.0"
+      }
   },
-  {
-    "id": "2",
-    "urlSlug": "fabric-materials-56-pack",
-    "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Featured/FabricMaterials56Pack_featured-894x488-8c9cb21c4608e5e6aeb9e92ac352cbb6.png",
-    "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/FabricMaterials56Pack_thumb-284x284-3fd9dd6d7cc5691635505c0024227189.png",
-    "imagesUrl": [
-      "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection00-1920x1080-8e0d7cb5c9353e2d5b127aac2b83e832.jpg",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection01-1920x1080-626c107b8951cc441cd0043c1d5c795a.jpg",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection02-1920x1080-91f00bdb960e8f4169a8ca94f40fadd2.jpg"
-    ],
-    "author": "RonanMahonArt",
-    "title": "Fabric Materials - 56 Pack",
-    "description": "56 PBR Fabric Materials - Game and Arch Viz Ready, ideal for both environments and characters. Created at 4K resolution",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Materials"],
-    "gameEngines": ["UE4"],
-    "platforms": ["win", "mac", "linux"],
-
-    "source": "UE4 Marketplace",
-    "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/fabric-materials-56-pack",
-    "tags": ["Materials", "PBR", "Textures"],
-    "license": "Free month"
-  },
-  {
-    "id": "3",
-    "urlSlug": "top-down-multistory-dungeons",
-    "featuredImageUrl": "https://cdn1.epicgames.com/ue/item/MultistoryDungeons_Image_894X488-896x488-0bdc200ab21cf23c07a9c5b676a6d996.png",
-    "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultistoryDungeons_thumb-284x284-c43a196228af58a484f5d0e876efad72.png",
-    "imagesUrl": [
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_01-1920x1080-79645018dd787c59536d87d8747d1881.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_02-1920x1080-4fd8b4a9bc44773c6aff1490693ca236.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_08-1920x1080-3cdf461fc09b9bde8f39debb9e6cea47.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_01-1920x1080-2d4d54f166006f97837a0e5e3463425d.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_02-1920x1080-4213fb6c8232df87ddff6afda9e03217.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_03-1920x1080-9f8cc1ee66d20702f9ebc9cf468573fe.png"
-    ],
-    "author": "Mana Station",
-    "title": "Multistory Dungeons",
-    "description": "Package contains over 350 models to build stylized dungeons for top-down and first-person games.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Environments"],
-    "gameEngines": ["UE4"],
-    "platforms": ["win"],
-
-    "source": "UE4 Marketplace",
-    "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/top-down-multistory-dungeons",
-    "tags": ["Dungeons", "Fantasy", "Low Poly", "Stylized", "Modular", "RPG"],
-    "license": "Free month"
-  },
-  {
-    "id": "4",
-    "urlSlug": "city-subway-train-modular",
-    "featuredImageUrl": "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_01-1920x1080-9336094e9e4eded2c797621b34eb2ac8.png",
-    "thumbnailImageUrl": "https://cdn1.epicgames.com/ue/product/Thumbnail/City-Subway Train - Modular_thumb-284x284-ef75b1e5c0c24db73f84f9a1ac607a0a.png",
-    "imagesUrl": [
-      "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_01-1920x1080-9336094e9e4eded2c797621b34eb2ac8.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_02-1920x1080-a0a0c3a6e14919974e9dc012f5adfdfc.png",
-      "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_03-1920x1080-216a765f46e34519d0fa575c05e2dab1.png"
-    ],
-    "author": "Dekogon Studios",
-    "title": "City Subway Train - Modular",
-    "description": "This project includes a set of modular meshes and simple blueprint setups to create a subway train. All assets, materials, and vfx created in the Unreal Engine at production ready quality. Each asset was created for realistic AAA quality visuals, style, and budget.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Environments"],
-    "gameEngines": ["UE4"],
-    "platforms": ["win"],
-
-    "source": "UE4 Marketplace",
-    "sourceUrl": "https://www.unrealengine.com/marketplace/en-US/city-subway-train-modular",
-    "tags": ["Realistic", "City", "Horror", "Metro"],
-    "license": "Free"
-  },
-  {
-    "id": "5",
-    "urlSlug": "scott-buckley-song-freedom",
-    "featuredImageUrl": "https://img.youtube.com/vi/8wQd6G1ONTg/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/8wQd6G1ONTg/0.jpg",
-    "youtubeId": "8wQd6G1ONTg",
-    "author": "Scott Buckley",
-    "title": "Freedom",
-    "description": "‘Freedom’ is a bold, uplifting orchestral track, imbued with ideas of exploration, and the pioneering spirit.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/freedom/",
-    "tags": ["Orchestral", "Uplifting", "Exploration"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "6",
-    "urlSlug": "scott-buckley-ashes-fallen-year-remaster",
-    "featuredImageUrl": "https://img.youtube.com/vi/dOkZKq5o99w/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/dOkZKq5o99w/0.jpg",
-    "youtubeId": "dOkZKq5o99w",
-    "author": "Scott Buckley",
-    "title": "Ashes of a Fallen Year - Remaster",
-    "description": "A 2019 remaster of an old track! ‘Ashes’ is a simple, uplifting orchestral track with acoustic drums and strings. The new version has more emphasis on solo strings (violin and cello).",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/ashes-of-a-fallen-year-2019-remaster/",
-    "tags": ["Orchestral", "Uplifting"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "7",
-    "urlSlug": "scott-buckley-skyscraper-samba",
-    "featuredImageUrl": "http://www.scottbuckley.com.au/wp-content/uploads/scott-wall2-flipped-fade3.jpg",
-    "thumbnailImageUrl": "http://www.scottbuckley.com.au/wp-content/uploads/scott-wall2-flipped-fade3.jpg",
-    "author": "Scott Buckley",
-    "title": "Skyscraper Samba",
-    "description": "Elevator music, pure and simple. Three versions are provided: Full Mix, EQ’d (for the elevator speaker experience), and EQ’d + Less Drums (heard above), which has a simpler, more comedic vibe.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/skyscraper-samba/",
-    "tags": ["Elevator", "Samba", "Jazzy", "Relaxing"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "8",
-    "urlSlug": "scott-buckley-ascension",
-    "featuredImageUrl": "https://img.youtube.com/vi/fMx5roxJ7Uk/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/fMx5roxJ7Uk/0.jpg",
-    "youtubeId": "fMx5roxJ7Uk",
-    "author": "Scott Buckley",
-    "title": "Ascension",
-    "description": "Sweeping orchestra, with a touch of sadness, a pinch of melancholy, but a smidgeon of hope for balance – a modern tone poem for the trials of overcoming adversity. A simple, distorted synth helps drive the orchestra forward.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/ascension/",
-    "tags": ["Sad", "Orchestra"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "9",
-    "urlSlug": "scott-buckley-childhood",
-    "featuredImageUrl": "https://img.youtube.com/vi/0JhMDxp3LFA/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/0JhMDxp3LFA/0.jpg",
-    "youtubeId": "0JhMDxp3LFA",
-    "author": "Scott Buckley",
-    "title": "Childhood",
-    "description": "Simple piano and strings, evoking the naivety of childhood.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/childhood/",
-    "tags": ["Piano", "Happy"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "10",
-    "urlSlug": "scott-buckley-computations",
-    "featuredImageUrl": "https://img.youtube.com/vi/kbTClxgehrQ/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/kbTClxgehrQ/0.jpg",
-    "youtubeId": "kbTClxgehrQ",
-    "author": "Scott Buckley",
-    "title": "Computations in a Snowstorm",
-    "description": "Ambient electronics, strings and solo cello, melding into an amorphous tonal explorational soundscape. I’ve also included a ‘No Cello’ mix, which transforms the track into atmospheric underscore.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/computations/",
-    "tags": ["Ambient", "Dark"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "11",
-    "urlSlug": "scott-buckley-intervention",
-    "featuredImageUrl": "https://img.youtube.com/vi/TO5eGVihmN0/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/TO5eGVihmN0/0.jpg",
-    "youtubeId": "TO5eGVihmN0",
-    "author": "Scott Buckley",
-    "title": "Intervention",
-    "description": "Darker ambient piano – subtle thriller vibes, with a simpler piano theme which should hopefully work well as underscore. Also included is a ‘no melody’ alternative mix.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/intervention/",
-    "tags": ["Ambient", "Dark", "Piano"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "12",
-    "urlSlug": "scott-buckley-o-come-all-ye-faithful",
-    "featuredImageUrl": "https://img.youtube.com/vi/Or0AdFdwICA/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/Or0AdFdwICA/0.jpg",
-    "youtubeId": "Or0AdFdwICA",
-    "author": "Scott Buckley",
-    "title": "‘O Come All Ye Faithful",
-    "description": "A cinematic re-orchestration of ‘O Come All Ye Faithful’, with sweeping strings, brass and percussion. Merry Christmas guys! Thanks for an amazing year.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/o-come-all-ye-faithful/",
-    "tags": ["Chistmas", "Xmas", "Orchestral"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "13",
-    "urlSlug": "scott-buckley-snowfall",
-    "featuredImageUrl": "https://img.youtube.com/vi/2N6LRMFT7_A/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/2N6LRMFT7_A/0.jpg",
-    "youtubeId": "2N6LRMFT7_A",
-    "author": "Scott Buckley",
-    "title": "Snowfall",
-    "description": "A heartfelt reflection of the snowy darkness of Midwinter (at least of what it’s like here in Sweden!). Simple layered pianos, percussive and sustained strings, and synths.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/snowfall/",
-    "tags": ["Snow", "Winter", "Piano", "Synth", "Strings"],
-    "license": "CC BY 4.0"
-  },
-  {
-    "id": "14",
-    "urlSlug": "scott-buckley-extrapolation",
-    "featuredImageUrl": "https://img.youtube.com/vi/ZUua4pp2PKw/maxresdefault.jpg",
-    "thumbnailImageUrl": "https://img.youtube.com/vi/ZUua4pp2PKw/0.jpg",
-    "youtubeId": "ZUua4pp2PKw",
-    "author": "Scott Buckley",
-    "title": "Extrapolation",
-    "description": "A simple, moody extrapolation of a piano improvisation, featuring atmospheric strings. Slightly uplifting, slightly melancholy.",
-    "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)",
-    "categories": ["Music"],
-
-    "source": "Scott Buckley Music Library",
-    "sourceUrl": "http://www.scottbuckley.com.au/library/extrapolation/",
-    "tags": ["Moody", "Piano", "Strings"],
-    "license": "CC BY 4.0"
+  "assetDetails":{
+    "byId":{  
+      "1":{
+        "id": "1",
+        "imagesUrl": [
+          "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-d4c14bcc336aaf5971dfa57cdf578311.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-ab705f272dae8ea3d67ea87ae280cd8e.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-aa47b5922ae765e2b8ab32ebf49715d2.png"
+        ],
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "2":{
+        "id": "2",
+        "imagesUrl": [
+          "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection00-1920x1080-8e0d7cb5c9353e2d5b127aac2b83e832.jpg",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection01-1920x1080-626c107b8951cc441cd0043c1d5c795a.jpg",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/RMFabricCollection02-1920x1080-91f00bdb960e8f4169a8ca94f40fadd2.jpg"
+        ],
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "3":{
+        "id": "3",
+        "imagesUrl": [
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_01-1920x1080-79645018dd787c59536d87d8747d1881.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_02-1920x1080-4fd8b4a9bc44773c6aff1490693ca236.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_08-1920x1080-3cdf461fc09b9bde8f39debb9e6cea47.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_01-1920x1080-2d4d54f166006f97837a0e5e3463425d.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_02-1920x1080-4213fb6c8232df87ddff6afda9e03217.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/MD_SCRN_1.5_Over_03-1920x1080-9f8cc1ee66d20702f9ebc9cf468573fe.png"
+        ],
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "4":{
+        "id": "4",
+        "imagesUrl": [
+          "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_01-1920x1080-9336094e9e4eded2c797621b34eb2ac8.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_02-1920x1080-a0a0c3a6e14919974e9dc012f5adfdfc.png",
+          "https://cdn1.epicgames.com/ue/product/Screenshot/subwaytrain_screenshot_03-1920x1080-216a765f46e34519d0fa575c05e2dab1.png"
+        ],
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "5":{
+        "id": "5",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "6":{
+        "id": "6",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "7":{
+        "id": "7",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "8":{
+        "id": "8",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "9":{
+        "id": "9",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "10":{
+        "id": "10",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "11":{
+        "id": "11",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "12":{
+        "id": "12",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "13":{
+        "id": "13",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      },
+      "14":{
+        "id": "14",
+        "detailsMarkDown": "* Align objects between each others.  \n * Simple creating bunch of objects with useful parameters (transform, rotate, scale)"
+      }
+    }
   }
+}
 
-]}
+
